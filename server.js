@@ -42,7 +42,7 @@ function createTemplate(data){
             <style>
                 .container{
                     max-width : 800px;
-                    margin : 4 auto;
+                    margin : auto;
                     color : grey;
                     font-family : sans-serif;
                     padding-left : 20px;

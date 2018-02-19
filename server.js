@@ -68,7 +68,7 @@ function createTemplate(data){
                 </div>
                 
                 <div>
-                    ${articleOne}
+                    ${content}
                 </div>
             </div>
         </body>

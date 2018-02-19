@@ -44,7 +44,7 @@ function createTemplate(data){
                     max-width : 800px;
                     margin : auto;
                     color : grey;
-                    font-family : sans-serif;
+                    font-family : red serifs;
                     padding-left : 20px;
                     padding-right : 20px;
                     padding-top : 40px;
